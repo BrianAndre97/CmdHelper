@@ -1,9 +1,12 @@
 # CmdHelper
+:) Consider buying me a coffee! https://buymeacoffee.com/brianandrec
 ## What is CmdHelper?
 CmdHelper was created during my time as a network admin. It contains 30 essential windows CMD & Powershell commands that retrieve some of the most detailed information about a computer/ server.
 
 ## Breakdown & How-to
-Upon load up, this script starts up a GUI with a list of commands. Once you select the command you'd like to use, simply click copy to place it on the clipboard (very helpful when you have a live remote connection to a users' computer). However, if you'd like to run that command on your local computer, simply select "Run" and it will give you the output on the terminal that was opened in the background. At the top, you'll see "Command is for [empty box]" and once you select either "run/copy" it will tell you the command will run in either the Command prompt terminal, or the Powershell terminal. 
+Upon load up, this script starts up a GUI with a list of commands. Once you select the command you'd like to use, simply click copy to place it on the clipboard (very helpful when you have a live remote connection to a users' computer). However, if you'd like to run that command on your local computer, simply select "Run" and it will give you the output on the terminal that was opened in the background. 
+
+At the top, you'll see "Command is for [empty box]" and once you select either "run/copy" it will tell you the command will run in either the Command prompt terminal, or the Powershell terminal. 
 Below is a list of all the commands;
 
 1. Command to get RAM Info
